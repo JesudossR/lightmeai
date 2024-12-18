@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "7QysjD01U1qiRczSwBC918lR/pjUz+tYCjSsNWe1frQ=",
+  "Source": "lightsmeai",
+  "BasePath": "_content/lightsmeai",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lightsmeai\\wwwroot",
+      "Source": "lightsmeai",
+      "ContentRoot": "D:\\meai\\lightsmeai\\wwwroot\\",
+      "BasePath": "_content/lightsmeai",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\meai\\lightsmeai\\wwwroot\\index.html",
+      "SourceId": "lightsmeai",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\meai\\lightsmeai\\wwwroot\\",
+      "BasePath": "_content/lightsmeai",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

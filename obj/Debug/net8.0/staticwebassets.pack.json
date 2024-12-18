@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\meai\\lightsmeai\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.lightsmeai.props",
+      "PackagePath": "build\\lightsmeai.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.lightsmeai.props",
+      "PackagePath": "buildMultiTargeting\\lightsmeai.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.lightsmeai.props",
+      "PackagePath": "buildTransitive\\lightsmeai.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.lightsmeai.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
